@@ -1,0 +1,7 @@
+{
+  "clientId": "your-bot-id",
+  "guildId": "your-guild-id",
+  "token": "your-bot-token",
+  "database": "your-mongo-url"
+  
+}
