@@ -2,8 +2,6 @@
 
 Shop bot is a open source project of an shop discord bot using [discord.js](https://discord.js.org) v13
 
-![Preview](https://imgur.com/a/1DblmDi)
-
 ## How To Use?
 
 go to config.json file and change the information you need to change
